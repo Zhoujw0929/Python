@@ -31,6 +31,7 @@ class BaseModel:
     CHECK_2 = "850 730"
     CHECK_3 = "850 850"
 
+    #任务道具栏按钮
     TASK_GOODS_BTN_1 = "615 1420"
     TASK_GOODS_BTN_2 = "900 1420"
 

@@ -1,9 +1,9 @@
-# 临安练级脚本
-from com.zjw.auto.BaseService import *
-from com.zjw.model.BaseModel import *
+# 太乙钓鱼脚本
+from venv.com.zjw.auto.BaseService import *
+from venv.com.zjw.model.BaseModel import *
 
 
-class TaiYi:
+class DiaoYu:
     baseService = BaseService()
     baseModel = BaseModel()
 

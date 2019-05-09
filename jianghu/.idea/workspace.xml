@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab4616ef-ea0e-4f4d-b3b9-69ccaa7c9b6e" name="Default Changelist" comment="" />
+    <list default="true" id="ab4616ef-ea0e-4f4d-b3b9-69ccaa7c9b6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/com/zjw/auto/experience/FuZhou.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jianghu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jianghu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/com/zjw/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/com/zjw/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/com/zjw/auto/BaseService.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/com/zjw/auto/BaseService.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/com/zjw/auto/experience/LinAn.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/com/zjw/auto/experience/LinAn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/com/zjw/auto/other/ChaoCai.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/com/zjw/auto/other/ChaoCai.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/com/zjw/auto/other/TaiYi.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/com/zjw/auto/other/DiaoYu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/com/zjw/auto/other/WuJian.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/com/zjw/auto/other/WuJian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/com/zjw/model/BaseModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/com/zjw/model/BaseModel.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +23,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/com/zjw/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="407">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="11" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/other/DiaoYu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -22,17 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/com/zjw/model/BaseModel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/BaseService.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1908">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="756">
+              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -40,23 +56,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/com/zjw/Main.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/BaseService.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state relative-caret-position="1847">
+              <caret line="52" column="37" lean-forward="true" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
               <folding>
-                <element signature="e#0#37#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/other/ChaoCai.py">
+        <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/experience/FuZhou.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="180">
+              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -76,18 +92,24 @@
       <find>baseModel</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/venv/com/zjw/experience/LinAn.py" />
         <option value="$PROJECT_DIR$/venv/com/zjw/auto.py" />
-        <option value="$PROJECT_DIR$/venv/com/zjw/auto/experience/LinAn.py" />
         <option value="$PROJECT_DIR$/venv/com/zjw/auto/diao_yu/TaiYi.py" />
         <option value="$PROJECT_DIR$/venv/pyvenv.cfg" />
-        <option value="$PROJECT_DIR$/venv/com/zjw/model/BaseModel.py" />
-        <option value="$PROJECT_DIR$/venv/com/zjw/auto/other/WuJian.py" />
-        <option value="$PROJECT_DIR$/venv/com/zjw/auto/BaseService.py" />
+        <option value="$PROJECT_DIR$/venv/com/zjw/auto/experience/LinAn.py" />
         <option value="$PROJECT_DIR$/venv/com/zjw/auto/other/ChaoCai.py" />
+        <option value="$PROJECT_DIR$/venv/com/zjw/auto/other/WuJian.py" />
+        <option value="$PROJECT_DIR$/venv/com/zjw/auto/experience/FuZhou.py" />
+        <option value="$PROJECT_DIR$/venv/com/zjw/model/BaseModel.py" />
+        <option value="$PROJECT_DIR$/venv/com/zjw/auto/BaseService.py" />
+        <option value="$PROJECT_DIR$/venv/com/zjw/auto/other/TaiYi.py" />
+        <option value="$PROJECT_DIR$/venv/com/zjw/auto/other/DiaoYu.py" />
         <option value="$PROJECT_DIR$/venv/com/zjw/Main.py" />
       </list>
     </option>
@@ -98,6 +120,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -130,38 +153,7 @@
             </path>
             <path>
               <item name="jianghu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="jianghu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (jianghu) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="jianghu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (jianghu) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jianghu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (jianghu) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jianghu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (jianghu) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zjw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jianghu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (jianghu) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jianghu" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="zjw" type="462c0819:PsiDirectoryNode" />
@@ -169,13 +161,29 @@
             </path>
             <path>
               <item name="jianghu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (jianghu) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jianghu" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zjw" type="462c0819:PsiDirectoryNode" />
+              <item name="auto" type="462c0819:PsiDirectoryNode" />
+              <item name="experience" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jianghu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jianghu" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="zjw" type="462c0819:PsiDirectoryNode" />
               <item name="auto" type="462c0819:PsiDirectoryNode" />
               <item name="other" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jianghu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jianghu" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zjw" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,6 +193,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/com/zjw/auto/other" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -195,12 +204,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\python\work\jianghu\venv\com\zjw\auto" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\work\Python\jianghu\venv\com\zjw\auto\other" />
+      <recent name="D:\python\work\Python\jianghu\venv\com\zjw\auto\experience" />
       <recent name="D:\python\work\jianghu\venv\com\zjw\auto\other" />
       <recent name="G:\python\work\jianghu\venv\com\zjw\auto\other" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\python\work\jianghu\venv\com\zjw\auto" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -360,13 +371,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19125395" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19125395" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30985916" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30911064" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -395,13 +407,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto.py" />
-    <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/experience/LinAn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
@@ -424,13 +429,30 @@
     <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/other/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/other/TaiYi.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/other/WuJian.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#9#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/other/ChaoCai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/experience/LinAn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#9#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -441,36 +463,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/com/zjw/model/BaseModel.py">
+    <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/experience/FuZhou.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        <state relative-caret-position="180">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/other/DiaoYu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/other/DiaoYu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/BaseService.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1908">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="1847">
+          <caret line="52" column="37" lean-forward="true" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/com/zjw/auto/other/ChaoCai.py">
+    <entry file="file://$PROJECT_DIR$/venv/com/zjw/model/BaseModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        <state relative-caret-position="756">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/com/zjw/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="407">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="11" selection-end-line="12" selection-end-column="21" />
           <folding>
-            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#0#42#0" expanded="true" />
           </folding>
         </state>
       </provider>

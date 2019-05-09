@@ -1,6 +1,6 @@
 # 华山悟剑脚本
-from com.zjw.auto.BaseService import *
-from com.zjw.model.BaseModel import *
+from venv.com.zjw.auto.BaseService import *
+from venv.com.zjw.model.BaseModel import *
 
 
 class WuJian:
