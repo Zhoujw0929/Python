@@ -22,7 +22,10 @@ class DiaoYu:
             print("脚本执行次数不限，已开始")
             i = 1
             while i:
+                print("当前执行第[{}]轮.".format(i))
+                i += 1
                 self.auto()
         print("脚本执行次数[{}]次,已开始".format(num))
         for i in range(0, num):
+            print("当前执行第[{}]轮.".format(i + 1))
             self.auto()
